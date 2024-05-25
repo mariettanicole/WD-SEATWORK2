@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="https://th.bing.com/th/id/OIP.T91ZV6XDE_JMg_gk4pHDqQHaHa?rs=1&pid=ImgDetMain" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">SEATWORK 2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Hello! I am Marietta Nicole P. Cayaon. Currently studying at FEU Institute of Technology.
 </div>
 
 <br />
@@ -111,4 +111,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Personal Portfolio Website using HTML & CSS | To make resume to show my skills, experiences, and achievements. | https://youtu.be/RroDdybvu5s?si=Gn5SkCmWPyMwSGEP |
